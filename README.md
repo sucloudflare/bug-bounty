@@ -64,5 +64,3 @@
     <span>$ exit</span>
     <span>sucloudflare0x00 · bug bounty hunter</span>
   </footer>
- 
-  <p class="tags">#bugbounty #cybersecurity #infosec #hackerone #bugcrowd #segurancadainformacao #websecurity #smartcontractaudit #sucloudflare0x00 #sucloudflare #Programação #Aprendizado #GitHub</p>
